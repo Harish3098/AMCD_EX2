@@ -22,7 +22,7 @@ jobs:
       matrix:
         test_file:
           - rmse_test.py
-          - numeric_deriviation_test.py
+          - numeric_derivation_test.py
           - tensor_multiplication_test.py
 
     steps:
